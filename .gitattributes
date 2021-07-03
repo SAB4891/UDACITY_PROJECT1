@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 UdacityProject_DataUnderstanding_and_preparation_2.ipynb filter=lfs diff=lfs merge=lfs -text
+UdacityProjectFinale.ipynb filter=lfs diff=lfs merge=lfs -text

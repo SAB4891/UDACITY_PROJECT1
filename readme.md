@@ -31,3 +31,6 @@ Does satisfaction of full-time employed StackOverFlow respondents varies over th
 the answer to those questions, lies first in understanding that differences in sample size from year to year should be standardized (proportions computation). Afterward, the various categories of job satisfactions are plotted over the years to visually inspect the line plots. Finally, a chi square test is conducted to determine whether the satisfaction varies over the years? And if it does. is the change in proportions statistically significant?
 
 ![Line plots of full-time employed Job satisfaction over the years](pics/JobSat_percentagesOverYrs.png)
+___
+## Project's Tools
+Juptyer, Gitbash/Github, Atom text editor, Python libraries: Numpy, Pandas, Re, Matplotlib, Seaborn, Scipy

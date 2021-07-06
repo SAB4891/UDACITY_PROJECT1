@@ -32,5 +32,9 @@ the answer to those questions, lies first in understanding that differences in s
 
 ![Line plots of full-time employed Job satisfaction over the years](pics/JobSat_percentagesOverYrs.png)
 ___
-## Project's Tools
+## Project's Tools & ressources
 Juptyer, Gitbash/Github, Atom text editor, Python libraries: Numpy, Pandas, Re, Matplotlib, Seaborn, Scipy
+
+csv surveys files (2015 -> 2020), uploaded in the repository
+
+[Stack Overflow data](https://insights.stackoverflow.com/survey)
